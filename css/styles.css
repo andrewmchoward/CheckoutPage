@@ -1,0 +1,65 @@
+body {
+    font-family: 'ABeeZee', sans-serif;
+    background-color: #F0D9FF;
+}
+
+/* Headings */
+
+.big-heading {
+    font-size: 4.5rem;
+    font-weight: 700;
+    padding-top: 10%
+}
+
+/* Navigation Bar */
+
+nav {
+background-color: #F0D9FF;
+}
+
+.navbar-brand {
+    font-family: 'Amaranth', sans-serif;
+    font-weight: 700;
+}
+
+.navigation-div {
+    padding: 2% 0 2% 15%;
+}
+
+/* Intro */
+
+#intro {
+    background-color: #BFA2DB;
+    padding: 4% 15% 1%;
+    color: #fff;
+}
+
+.offer {
+    padding-top: 10%;
+    font-size: 1.5rem;
+    line-height: 1.5;
+}
+
+/* Sign-up Form */
+
+.sign-col {
+    margin: 2% 0 2% 0;
+}
+
+#sign-up {
+    padding: 5% 15%;
+    background-color: #BFA2DB;
+}
+
+/* Footer */
+
+footer {
+    padding: 2% 7%;
+    text-align: center;
+}
+
+.footer-cr {
+    color:gray;
+    font-size: 0.8rem;
+}
+
